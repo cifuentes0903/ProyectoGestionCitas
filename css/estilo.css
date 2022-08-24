@@ -1,0 +1,56 @@
+.login-formulario
+{
+    width: 340px;
+    margin: 20px auto;
+}
+.login-formulario form
+{
+    margin-bottom: 15px;
+    background: #f7f7f7;
+    box-shadow: 0px 2px 2px ;
+    padding: 30px;
+}
+.login-formulario h2
+{
+    margin: 0 0 15px;
+}
+.login-formulario, .btn
+
+{
+    min-height: 38px;
+    border-radius: 2px; 
+}
+.btn
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+.login-registro
+{
+     width: 500px;
+    margin: 20px auto;
+    
+}
+.login-registro form
+{
+    margin-bottom: 15px;
+    background: #f7f7f7;
+    box-shadow: 0px 2px 2px ;
+    padding: 30px;
+}
+.login-registro h2
+{
+    margin: 0 0 15px;
+}
+.login-registro, .btn
+
+{
+    min-height: 38px;
+    border-radius: 2px; 
+}
+.btn
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
